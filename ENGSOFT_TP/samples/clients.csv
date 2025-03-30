@@ -1,0 +1,201 @@
+cliente_id,nome,email,data_cadastro,estado
+1,Davi Lucas Pereira,monteiromarcos-vinicius@example.com,2023-07-01,TO
+2,Ana Sophia Guerra,idias@example.com,2023-06-24,RR
+3,Enzo Nascimento,aylaabreu@example.com,2025-03-19,MS
+4,Breno Novais,isabelcardoso@example.org,2023-11-05,PE
+5,Pedro Cavalcanti,wsousa@example.com,2024-10-06,DF
+6,Otávio Costa,kamilly54@example.com,2024-09-04,RO
+7,Ravi Lucca Cassiano,da-rosathomas@example.net,2024-11-17,RR
+8,Dra. Valentina Campos,clarice77@example.com,2024-07-06,PA
+9,Maria Alice Castro,pastormanuela@example.org,2024-07-12,SP
+10,Ana Vitória Oliveira,gabrielasousa@example.net,2024-06-02,MS
+11,Otto Costa,rael70@example.com,2024-11-13,PA
+12,Lara Vieira,joao-felipe15@example.com,2023-07-03,RO
+13,Fernando da Cruz,barroslivia@example.net,2024-05-22,AL
+14,João Martins,mendespaulo@example.com,2024-05-13,MG
+15,Yuri Campos,aurora04@example.net,2024-08-13,SE
+16,Marcela Rios,nathanviana@example.com,2025-02-19,ES
+17,Josué Teixeira,marcos-viniciusnovais@example.net,2024-04-23,CE
+18,Emanuelly Macedo,rochavalentina@example.com,2023-11-25,PE
+19,Luiz Gustavo Caldeira,fogacavicente@example.com,2025-01-28,DF
+20,Evelyn Borges,erick54@example.org,2023-08-04,AM
+21,Isabelly Barbosa,novaesmaria-julia@example.net,2023-10-31,GO
+22,Isabelly Martins,valentinafreitas@example.org,2025-02-26,MA
+23,Daniel Abreu,jsousa@example.org,2023-05-10,BA
+24,Alexia Garcia,lgomes@example.net,2024-09-07,RO
+25,Theodoro Lopes,saarthur-gabriel@example.org,2025-03-11,MS
+26,Marina Silveira,carvalhojoao-lucas@example.org,2025-04-16,RR
+27,Isaque Cavalcanti,thomas46@example.com,2023-05-23,MS
+28,Calebe Cavalcante,pereiraandre@example.org,2024-09-21,PE
+29,Ravi da Mata,bento24@example.net,2023-08-28,PR
+30,Sabrina Porto,eduardafernandes@example.com,2025-02-04,MT
+31,Eduarda Caldeira,valentimsousa@example.org,2023-07-06,PB
+32,Thales da Costa,isantos@example.org,2025-01-30,AP
+33,Gustavo Henrique Novais,xabreu@example.net,2023-10-17,GO
+34,Dra. Zoe Moura,camila78@example.com,2024-08-22,PA
+35,Olívia Cunha,alexia61@example.org,2023-09-25,RN
+36,Isabela Nunes,dmachado@example.org,2023-12-11,PA
+37,Ana Júlia da Paz,alveslucca@example.com,2023-12-25,AM
+38,Benjamin Ferreira,maria-eduarda98@example.org,2024-05-10,CE
+39,Mateus Aparecida,fernandesrodrigo@example.com,2023-06-21,RN
+40,Mirella Cassiano,arthursouza@example.org,2023-08-23,RR
+41,Maria Fernanda Cirino,cardosomariah@example.net,2024-06-25,MG
+42,Rodrigo da Paz,fernandaviana@example.net,2023-09-07,RR
+43,Ana Beatriz Sousa,zduarte@example.com,2024-12-14,BA
+44,Vitor Gonçalves,mariah60@example.com,2024-01-22,PR
+45,Sofia Melo,maria-lizpastor@example.net,2024-09-17,AC
+46,Cauê Moura,xmoraes@example.com,2024-04-20,RO
+47,Dra. Eduarda Pastor,usampaio@example.net,2023-06-27,PB
+48,Ravi Lucca Duarte,vargaseduardo@example.com,2023-12-01,RJ
+49,Brenda da Mota,samarcos-vinicius@example.net,2023-08-03,AL
+50,Carolina Correia,da-rosagabriela@example.org,2025-02-18,AM
+51,Benicio Castro,abarbosa@example.net,2024-06-14,RR
+52,Luigi Santos,britomelina@example.net,2024-03-24,PR
+53,Kevin Lopes,xazevedo@example.com,2023-09-04,AM
+54,Théo Moraes,souzamatheus@example.net,2023-08-03,DF
+55,Thales da Conceição,walmeida@example.net,2024-03-26,AL
+56,Pietro Santos,vda-luz@example.com,2023-08-18,AM
+57,Liz Siqueira,laura42@example.org,2024-10-10,BA
+58,Renan Costela,leaoarthur-miguel@example.com,2024-10-09,AL
+59,Sabrina Duarte,isaque87@example.net,2024-01-25,BA
+60,Ágatha da Cunha,arthurdias@example.org,2025-01-21,MS
+61,Maria Flor Melo,andreoliveira@example.com,2025-02-23,GO
+62,Erick Mendonça,milenamelo@example.org,2025-03-13,MG
+63,Ana Clara Fonseca,ugarcia@example.com,2023-05-13,MG
+64,Igor da Rosa,theopimenta@example.org,2024-08-17,PB
+65,Allana Cardoso,mourabarbara@example.org,2023-05-07,RJ
+66,Dante Câmara,pedro30@example.net,2025-02-26,MA
+67,Luigi Sousa,zmendes@example.net,2025-04-03,BA
+68,Caleb Rios,portobreno@example.net,2023-08-26,RO
+69,Liam Alves,yteixeira@example.org,2025-04-08,RO
+70,Guilherme Rodrigues,scorreia@example.net,2025-04-03,MG
+71,Samuel Fogaça,ncorreia@example.org,2025-04-02,PR
+72,Sra. Lavínia da Rocha,camilada-mata@example.com,2023-06-30,RN
+73,Antônio Nunes,barbara28@example.org,2023-07-18,SC
+74,Srta. Antonella Fernandes,vieiracarlos-eduardo@example.org,2025-02-22,MA
+75,Josué Siqueira,kviana@example.net,2024-06-08,DF
+76,Dr. João Gabriel Correia,aylla02@example.org,2024-11-26,RJ
+77,Dr. Juan Campos,sara39@example.net,2024-05-30,SP
+78,Leonardo Caldeira,santosevelyn@example.net,2024-08-09,MG
+79,Jade da Mata,livia16@example.com,2024-08-08,AP
+80,Renan Silva,lunnapacheco@example.org,2024-02-28,CE
+81,Eloá Costela,ddas-neves@example.org,2024-10-21,MT
+82,Srta. Alice Pimenta,sapedro@example.net,2023-08-08,MS
+83,Léo Borges,fernandesnatalia@example.net,2023-12-30,AL
+84,Gabriela Pacheco,ninaaparecida@example.org,2025-03-14,SP
+85,Maya Pereira,ian18@example.com,2024-08-26,CE
+86,Vitória Moraes,maria-juliabarbosa@example.net,2023-05-16,AM
+87,Sr. Gustavo Moraes,luan85@example.org,2025-01-21,RS
+88,Joaquim das Neves,nogueirasophia@example.net,2024-10-24,AL
+89,Dante Silveira,zborges@example.com,2024-12-30,MS
+90,Mariane Araújo,cunhavitor-hugo@example.net,2023-10-06,SC
+91,Julia Fogaça,otavio96@example.org,2025-03-17,BA
+92,Esther Lima,maite55@example.com,2024-03-17,SE
+93,Larissa Teixeira,matteo07@example.net,2024-12-03,AP
+94,Dra. Ana Luiza Fonseca,yrios@example.net,2024-09-25,MT
+95,Lorenzo Gonçalves,jporto@example.org,2025-02-14,MT
+96,Maria Julia Ribeiro,glima@example.org,2024-11-30,GO
+97,Catarina Ferreira,vianacaleb@example.com,2024-02-12,GO
+98,Yago Vasconcelos,luiz-felipepinto@example.com,2024-02-15,SP
+99,Francisco Macedo,rafaelanascimento@example.net,2023-12-17,PE
+100,Otávio Brito,mariana44@example.com,2024-09-23,AL
+101,Thiago Garcia,teixeirajose-miguel@example.net,2024-05-21,PE
+102,Ana Sophia Sales,ryan48@example.net,2025-01-30,RJ
+103,Maria Laura Rocha,ryangoncalves@example.com,2023-05-10,CE
+104,Alana Araújo,thiago03@example.org,2025-03-06,GO
+105,Mathias Castro,gmonteiro@example.net,2023-12-20,PB
+106,Vitor Hugo Pinto,samuel28@example.org,2025-03-02,PA
+107,Ana Vitória Ribeiro,eteixeira@example.net,2025-02-13,AM
+108,Vinicius da Cruz,lnascimento@example.com,2024-09-21,AP
+109,João Lucas Carvalho,amandabarbosa@example.com,2025-02-22,SE
+110,Juliana Novaes,maria-luizafarias@example.org,2024-01-14,AM
+111,Melissa da Cruz,abreuisabel@example.org,2024-10-27,AL
+112,Isis Rios,beatriz36@example.net,2024-08-27,SE
+113,Thiago Nogueira,ravi-lucca43@example.com,2024-10-19,MT
+114,João Guilherme da Cruz,nduarte@example.org,2023-11-27,RR
+115,Sr. Pietro Cassiano,maria-liz72@example.org,2025-03-30,SE
+116,Helena Ferreira,eaparecida@example.net,2023-08-25,AM
+117,Ravy da Cruz,juliaborges@example.com,2023-10-11,RR
+118,Vitória Câmara,rodriguesvicente@example.net,2025-02-21,SE
+119,Gael Henrique Abreu,machadoryan@example.net,2023-08-25,PB
+120,Agatha Leão,anthony43@example.com,2023-11-14,GO
+121,Luara Pinto,vasconcelosbenicio@example.com,2024-06-01,AL
+122,Yago Lopes,andradezoe@example.com,2023-05-10,AM
+123,Gael Henrique Nogueira,nathan73@example.org,2023-06-02,PE
+124,Srta. Cecília Montenegro,biancasousa@example.net,2024-10-01,RO
+125,João Felipe Sousa,riosjoana@example.com,2024-11-07,ES
+126,João Miguel Mendes,araujoluiz-gustavo@example.net,2023-07-05,ES
+127,Marcelo Castro,mourabernardo@example.net,2024-05-08,PB
+128,Ísis Moraes,lsilva@example.org,2024-04-06,MS
+129,Dra. Raquel Moraes,coliveira@example.net,2024-09-29,GO
+130,Amanda Macedo,jesusmaria-flor@example.net,2024-11-18,MA
+131,Maria Eduarda Leão,xpereira@example.org,2023-11-23,AP
+132,Camila Oliveira,benjamim28@example.com,2024-09-17,AC
+133,Heloisa Monteiro,calebenascimento@example.org,2023-06-24,RO
+134,Ravy Barros,leaomaria-cecilia@example.com,2023-11-16,GO
+135,Giovanna Siqueira,fsales@example.org,2024-03-31,DF
+136,Maria Júlia Sá,vcosta@example.net,2024-09-29,SC
+137,Fernando Rocha,jose-miguel05@example.org,2023-06-20,RS
+138,Sra. Manuela Novaes,lucca36@example.com,2024-05-30,MS
+139,Olivia Barbosa,maria-juliaaraujo@example.com,2024-11-08,ES
+140,Isadora da Mata,fborges@example.com,2024-01-26,BA
+141,Diego da Conceição,amendes@example.org,2024-08-24,PI
+142,Jade Montenegro,catarinacamargo@example.org,2024-12-09,RO
+143,Bruna Rios,pachecopedro-miguel@example.org,2024-04-01,AL
+144,Cecilia da Conceição,benjamimsantos@example.org,2024-09-03,PE
+145,Dr. Arthur Gabriel Gomes,ravysilveira@example.com,2023-06-23,MT
+146,Leandro Câmara,jpires@example.com,2025-03-22,ES
+147,Dra. Alícia Azevedo,cavalcanteleonardo@example.org,2023-10-05,RO
+148,Melina Vasconcelos,mcostela@example.com,2025-05-01,ES
+149,Mirella Casa Grande,jbarbosa@example.com,2025-05-03,MS
+150,Isabel Pastor,melojoao-guilherme@example.org,2023-12-31,PA
+151,Liz Mendes,maria-clararodrigues@example.net,2023-07-04,PR
+152,Leonardo Moreira,tcastro@example.com,2023-07-21,MT
+153,Pietro Ribeiro,mayaaparecida@example.org,2023-09-06,ES
+154,Helena Pires,da-motalaura@example.net,2024-01-14,BA
+155,Matheus Fernandes,eloavasconcelos@example.net,2024-10-24,SE
+156,Sra. Luiza Aragão,luanapereira@example.net,2024-03-26,BA
+157,Stephany Abreu,rezendeana-cecilia@example.net,2024-10-07,SE
+158,Isabela Rocha,tmontenegro@example.org,2025-05-06,SP
+159,Dante Pacheco,mateus11@example.com,2024-12-11,MS
+160,Sabrina Carvalho,arthur-gabriel75@example.com,2024-08-22,PI
+161,Ana Sophia Moura,ninaviana@example.org,2023-05-08,RN
+162,Lucca Correia,sara18@example.net,2024-04-03,SP
+163,Nicolas Abreu,fda-conceicao@example.com,2023-07-14,AL
+164,Sr. Nicolas Silva,novaismelissa@example.com,2023-12-24,PI
+165,Hadassa Teixeira,melissacassiano@example.com,2025-03-21,PB
+166,Gael Henrique Novais,nathan41@example.net,2024-12-27,TO
+167,Eduardo Alves,vitor-gabrielda-cunha@example.net,2024-08-01,SP
+168,Miguel Sales,henriquecasa-grande@example.org,2023-12-20,MT
+169,Maria Clara Gonçalves,rpastor@example.org,2025-01-12,GO
+170,Srta. Gabrielly Freitas,azevedovalentina@example.com,2024-11-16,AL
+171,Luana Fogaça,caio91@example.com,2024-12-07,RN
+172,Maria Clara Santos,caio93@example.com,2023-09-05,TO
+173,Allana Casa Grande,caio78@example.org,2025-04-01,RJ
+174,Sr. Pedro da Luz,silvasarah@example.com,2024-08-06,RS
+175,Heitor da Paz,kcosta@example.net,2023-10-06,ES
+176,Sra. Larissa Andrade,aferreira@example.net,2023-05-08,RS
+177,Nicole Teixeira,noah70@example.org,2023-10-07,MT
+178,Ana Carolina Cassiano,rezendevinicius@example.org,2025-01-19,RS
+179,Henrique Macedo,caldeiranathan@example.com,2024-08-01,TO
+180,Emanuel Cunha,ravi-luccabarbosa@example.net,2024-06-25,AC
+181,Bárbara Pastor,caldeiramatteo@example.org,2023-08-04,RJ
+182,Léo Fogaça,davida-cunha@example.org,2024-12-09,SC
+183,Joana da Costa,davi-miguelferreira@example.net,2023-07-11,PB
+184,Kevin Guerra,esales@example.net,2023-06-13,SE
+185,Otto Gonçalves,ramosana-laura@example.com,2024-12-20,DF
+186,Eduarda Pastor,falmeida@example.com,2024-10-12,DF
+187,Melissa Leão,pfonseca@example.com,2024-03-11,SE
+188,Cecília da Mota,pedro-lucas15@example.com,2024-08-02,PA
+189,Srta. Milena Ferreira,zoe81@example.net,2024-07-26,AP
+190,Sr. Anthony Rocha,thomas35@example.org,2024-12-27,AP
+191,Paulo Nogueira,ksilveira@example.net,2023-06-27,AP
+192,Lucas Gabriel Alves,hellenacassiano@example.net,2023-08-20,RS
+193,Daniela Cavalcante,ferreiraluigi@example.net,2024-09-13,AP
+194,Vicente da Mata,maria-vitoriacamargo@example.net,2023-10-05,MA
+195,Dra. Aylla Cavalcanti,amontenegro@example.org,2024-02-16,RJ
+196,Esther Novaes,fogacahenry@example.com,2024-04-21,PB
+197,Isaac da Mota,bryansampaio@example.net,2023-09-20,AC
+198,Catarina da Costa,cavalcantejoao-gabriel@example.net,2023-09-16,AC
+199,Dante Cunha,maria-juliapastor@example.org,2024-10-01,RN
+200,Kamilly Pimenta,caldeirastephany@example.org,2025-02-10,ES
